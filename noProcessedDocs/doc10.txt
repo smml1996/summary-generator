@@ -1,0 +1,29 @@
+ A veces, tan solo con ver las noticias en la televisión, tengo dudas de que realmente el ser humano sea inteligente, por lo menos en su mayoría. Pero sí, si nos ajustamos a una definición académica del término, la especie humana es inteligente. Y, desde siempre, ha soñado con crear, a su vez, una inteligencia artificial.
+
+En el ámbito de las ciencias de la computación se denomina como inteligencia artificial a la facultad de razonamiento que ostenta un agente que no está vivo, tal es el caso de un robot, por citar uno de los ejemplos más populares, y que le fue conferida gracias al diseño y desarrollo de diversos procesos gestados por los seres humanos. Cabe destacarse que además del poder de razonar, estos dispositivos son capaces de desarrollar muchas conductas y actividades especialmente humanas como puede ser resolver un problema dado, practicar un deporte, entre otros.
+
+El concepto de Inteligencia Artificial, también conocido por las siglas AI, se le debe al informático estadounidense John McCarthy, quien en el año 1956 lo pronunció por primera vez en una conferencia causando un gran impacto en el ámbito de la tecnología. A partir de ese entonces, el concepto se diseminó fantásticamente por el mundo y por ello hoy es tan común su uso cuando queremos referirnos a aquellas máquinas o aparatos dotados de una inteligencia símil a la de los seres humanos. McCarthy además del concepto aportó muchísimos conocimientos de vanguardia al campo de la inteligencia artificial.
+
+Podemos entender una inteligencia artificial como aquellos algoritmos que se materializan en programas informáticos que, a su vez, corren sobre un hardware determinado, y que persiguen imitar el modo de funcionamiento del cerebro humano.
+
+Básicamente, una inteligencia artificial, que actúa imitando lo que hace una mente humana, debe ser capaz de “percatarse” de lo que pasa a su alrededor, procesar esa información, y sacar conclusiones de ella, inferir nuevas conclusiones que no se le han preprogramado.
+
+Hasta la fecha, los científicos que se dedican a este tema no han podido crear una inteligencia artificial de tipo general, sino que han optado por inteligencias artificiales especializadas.
+
+Esto es debido a que los equipos existentes hoy en día no son lo suficientemente potentes para el volumen de cálculo necesario para llevar a cabo todas las tareas de las que puede constar la inteligencia artificial general. Se espera que este particular pueda ser solucionado gracias a la computación cuántica.
+
+Un ejemplo típico de inteligencia artificial dedicada a un sector concreto es el de los programas de ajedrez; se enfrentan a movimientos de su oponente humano que llevan a situaciones sobre el tablero que no habían sido previstas y que, como tales, no pueden ser recogidas en los algoritmos, sino que para enfrentarse a ellas se requiere de la improvisación.
+
+Dicha improvisación se consigue a base de reglas que procesan la información captada, de forma que la decisión del movimiento depende, finalmente, de la “comprensión” de la situación.
+
+Otro ejemplo son los sistemas expertos, los cuales pueden realizar análisis y observaciones sobre un tema en concreto, como la bolsa. En este caso, los sistemas inteligentes analizan la información para intentar predecir el comportamiento futuro de los títulos puestos en juego, con lo cual son capaces de comprar y vender en el momento adecuado para obtener beneficio.
+
+Otro enfoque para acercarse al concepto de inteligencia artificial es el de las redes neuronales, en el cual algoritmos y máquinas intentan simular el comportamiento de las neuronas del cerebro humano.
+
+Hoy en día estamos rodeados por sistemas inteligentes que heredan de este concepto de inteligencia artificial aunque sirvan para tareas muy concretas, pero que muchas veces no nos percatamos de ellos; por ejemplo, el programa de área táctil en el cual escribir a mano alzada en nuestros smartphones (es imposible que tenga programados todos los trazos para crear todas las letras de todas las personas del mundo).
+
+Otro ejemplo son los sistemas automatizados de atención telefónica que nos solicitan que expliquemos nuestro problema, y que derivan nuestra llamada a uno u otro operario según lo que les contemos.
+
+A partir de los ejemplos que observamos, es importante destacar que nos podremos encontrar con diversos tipos de inteligencia artificial, como ser: sistemas que piensan como los seres humanos (se ocupan de imitar el pensamiento humano, siendo un ejemplo las redes neuronales artificiales, que justamente imitan el funcionamiento del sistema nervioso), sistemas que actúan como los humanos (son aquellos que imitan el comportamiento del hombre, el ejemplo más claro es el del robot), sistemas que piensan de modo racional (se caracterizan por imitar el pensamiento lógico de los humanos, es decir, en una cuestión concreta razonan como expertos. Se los emplea especialmente a la hora de buscar mejoras en la calidad y en la rapidez de un servicio) y sistemas que actúan de manera racional (imitan de manera racional el comportamiento de una persona, siendo capaces de percibir el entorno y actuar en consecuencia).
+
+El séptimo arte es uno de los ámbitos que más ha abordado la cuestión de la IA en los últimos años. Entre las producciones más recordadas está la de Steven Spielberg , titulada justamente Inteligencia Artificial, que narra la historia de un robot que fue creado para reemplazar a un niño y en ese comportamiento demuestra sentimientos típicamente de los humanos.

@@ -1,0 +1,57 @@
+# -*- coding: utf-8 -*-
+
+import os
+import codecs
+from nltk.stem import SnowballStemmer
+
+prohibitedCharacters = [u'\xe1', u'\xe9' ,u'\xed', u'\xf3',u'\xfa',u'\xf1']
+punctuation = [u'\xa1', u'\u2013', u'\u2009' ,u'\xfc',u'\xbf',',', '?', u'\xc2\xa1', ':', '.', ';', '!', u'\xc2\xbf', '"', '\'', '(', ')', u'\u2026', u'\u201c',u'\u201d']
+fixProhibited = ['a', 'e', 'i', 'o', 'u', 'n']
+stemmer = SnowballStemmer('spanish')
+
+
+def getUnicodeDocument(path):
+    isPunctuation = False
+    for fname in os.listdir(path):
+
+        destFile = open("processedDocs/"+fname, "w")
+        for line in codecs.open(os.path.join(path, fname), encoding='utf-8'):
+            temporal = ""
+            for i in range(0, len(line)):
+                isPunctuation =False
+                for j in range(0, len(prohibitedCharacters)):
+                    if prohibitedCharacters[j] == line[i].lower():
+                        isPunctuation = True
+                        temporal += fixProhibited[j]
+                        break
+                if not isPunctuation:
+                    for j in range(0, len(punctuation)):
+                        if punctuation[j] == line[i]:
+                            isPunctuation = True
+                            break
+                if not isPunctuation:
+                    temporal += line[i]
+            destFile.write(temporal.lower())
+
+
+def getNormalizedDocs():
+
+    for fname in os.listdir("processedDocs"):
+
+
+        destFile = open("normalizedDocs/" + fname, "w")
+
+        for line in open(os.path.join("processedDocs", fname)):
+            print line
+            finalLine = ""
+            words = line.split()
+            for w in words:
+                finalLine += stemmer.stem(w)
+                finalLine += " "
+
+            destFile.write(finalLine)
+
+
+#getUnicodeDocument("noProcessedDocs")
+
+getNormalizedDocs()

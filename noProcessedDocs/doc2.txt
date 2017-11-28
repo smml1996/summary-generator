@@ -1,0 +1,14 @@
+Una empresa de telefonía quiere saber qué clientes están en “peligro” de darse de baja de sus servicios para hacer acciones comerciales que eviten que se vayan a la competencia. ¿Cómo puede hacerlo? La empresa tiene muchos datos de los clientes, muchísimos: antigüedad, planes contratados, consumo diario, llamadas mensuales al servicio de atención al cliente, últimos cambios de planes contratados… pero seguramente los usa solo para facturar y para hacer estadísticas. ¿Qué más puede hacer con esos datos? Se pueden usar para predecir cuándo un cliente se va a dar de baja y gestionar la mejor acción que lo evite. Es pocas palabras, con Machine Learning se puede pasar de ser reactivos a ser proactivos. Los datos históricos del conjunto de los clientes, debidamente organizados y tratados en bloque, generan una base de datos que se puede explotar para predecir futuros comportamientos, favorecer aquellos que mejoran los objetivos de negocio y evitar aquellos que son perjudiciales.
+
+Esa cantidad ingente de datos son imposibles de analizar por una persona para sacar conclusiones y menos todavía para hacer predicciones. Los algoritmos en cambio sí pueden detectar patrones de comportamiento contando con las variables que le proporcionamos y descubrir cuáles son las que han llevado, en este caso, a darse de baja como cliente. La siguiente imagen es un ejemplo de una predicción simplificada basada en datos de una compañía de telefonía ficticia, pero usando una herramienta de Machine Learning real:
+
+La visualización en árbol (en esta imagen está simplificado, la predicción real tiene muchos más nodos) permite ver los patrones que han seguido ciertos clientes que se han dado de baja. En este caso está resaltada una de las ramas centrales, que indican un patrón en el que el cliente:
+
+Tiene más de 3 llamadas al servicio de atención al cliente.
+Llama menos de 171,95 minutos al día.
+Las llamadas en horario nocturno son inferiores a 189,02 minutos.
+
+
+Este es un análisis de los datos históricos, pero… ¿dónde está la predicción? Vamos a ello: si los clientes que tienen estas características ya se han dado de baja de la compañía, es previsible que los que todavía son clientes y tienen este mismo comportamiento estén en riesgo de irse. Según este modelo predictivo, es bastante probable que esto suceda (se dice que la predicción tiene una confianza, en este caso, de 91,97%). Si el departamento de marketing tuviera esta información, podría proponerles proactivamente un cambio de plan de tarificación o podría revisar por qué han llamado al servicio de atención al cliente para intentar mantenerlos.
+
+El árbol de predicción completo sería el siguiente. En este caso hemos resaltado una predicción falsa (es decir, no se daría de baja) con una confianza del 90,59%. A la derecha de la imagen se puede ver el patrón de comportamiento de este grupo de clientes:

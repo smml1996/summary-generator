@@ -1,0 +1,47 @@
+aunque nadie quiere un robot melancolico irritable o que arme berrinches muchos expertos sostienen que es recomendable que la inteligencia artificial manifieste empatia para comprender y comunicarse mejor con los humanos
+
+si has visto las peliculas her ex machina o el programa westworld quiza te has preguntado realmente queremos que los robots y su inteligencia artificial actuen como humanos con sentimientos emociones y dilemas morales
+
+esa misma pregunta se estan haciendo en la actualidad muchos de los expertos que trabajan en areas de la tecnologia como la robotica o la inteligencia artificial importa que los robots entiendan las emociones la inteligencia artificial debe reconocer sentimientos como el odio o la alegria y queremos que esta tecnologia tenga emociones
+
+actualmente la inteligencia artificial asume formas y funciones variadas desde los asistentes virtuales como alexa siri o google assistant que responden a busquedas te recuerdan citas y se sincronizan con tu hogar inteligente hasta robots que ayudan en el aeropuerto o en las tareas domesticas y robots que satisfacen fantasias sexuales
+
+pero a medida que se va desarrollando esta tecnologia las opiniones de los expertos se dividen frente al dilema sobre si los robots deben sentir emociones en un extremo estan quienes consideran que la inteligencia artificial debe ser capaz de identificar los sentimientos humanos para que nos entiendan mejor para que se comuniquen de forma mas coloquial con nosotros y anticipen problemas en el otro estan quienes piensan que el dotar de emociones a los robots los volveria ineficientes
+
+en este momento la mayoria de los sistemas de inteligencia artificial se basan en guiones fijos codigos de programacion creados por ingenieros que les indican a los algoritmos al pie de la letra lo que deben decir y como comportarse -- algo que podria considerarse una personalidad en este libreto que se les proporciona a los androides y asistentes virtuales los especialistas dicen que es menester incluir algunas lineas que les permitan manifestar empatia ante determinadas situaciones sobre todo para entender mejor a los humanos y adaptar mejor las soluciones que aportan los robots ante situaciones especificas
+
+en principio segun jeff heaton profesor de deep learning aprendizaje profundo en la universidad de washington en san luis missouri una vida artificial tiene una serie de atributos que se le han programado que podria evolucionar con base en su interaccion con los humanos que la rodean a medida que pasa el tiempo es lo que los cientificos llaman aprendizaje de las maquinas contextual asi es como las asistentes digitales como siri de apple o cortana de microsoft cambian segun nos conocen mas al aprender de nuestro comportamiento y contexto para ofrecer respuestas mas acertadas
+
+pero dice el colombiano juan carlos niebles investigador principal del laboratorio de inteligencia artificial de la universidad de stanford en california la inteligencia artificial por ahora no es tan inteligente de hecho dice las llamamos inteligentes porque sonamos que algun dia sean mas inteligentes pero realmente son bien tontas asocian patrones y los relacionan entre ellos nada mas afirma
+
+bajo esta premisa la empatia en las maquinas es el resultado del reconocimiento de patrones en los humanos los robots podrian por ejemplo comprender a partir de una serie de gestos faciales que una respuesta de ellos nos acongoja o podrian interpretar a partir de signos como el tono de nuestra voz que una actitud suya nos molesta a partir de rasgos puntuales los robots serian capaces de entender mejor como nos sentimos para adecuar sus respuestas y volverlas mas relevantes
+
+la industria no hace oidos sordos a estos avances la compania affectiva se dedica a recopilar millones de videos faciales de 87 paises para aislar variables que indiquen signos de emociones y para apreciarlas en cada contexto cultural la robot octavia no solo procesa las expresiones faciales sino tambien la voz porque puede ver oir y hasta tocar elementos del ambiente tambien hay robots de otras empresas que exhiben rasgos tiernos para volverse mas familiares como kuri de mayfield robotics que con sus emotivos ojos con camara graba videos automaticos de tu vida familiar o pepper de softbank robotics que te saluda extiende la mano o te baila ademas de brindarte informacion
+
+pese a estos intentos los expertos piensan que esta inteligencia emocional de los robots aun esta en panales a ellos aun les queda mucho por aprender sobre nosotros dice niebles
+
+un ejemplo de estas limitaciones proviene del campo de especializacion de niebles la vision por computadora en esta area los robots se alimentan de una abstraccion estadistica segun una inmensidad de ocurrencias normales se deduce que determinados patrones son los predecibles el algoritmo entiende cuando algo se aleja de la regla pero no comprende la accion especifica que observa ni puede juzgarla y mucho menos expresar una emocion hacia ella
+
+en la actualidad no existe un sistema capaz de distinguir estas sutilezas emocionales pero eventualmente se lograra dice niebles que agrego que hoy en dia estos modelos computacionales sirven para guiar la decision humana en vez de reemplazarla
+
+es dificil lograr que los robots sientan emociones pero si necesitan comprender la emocion humana para que se relacionen mejor con nosotros imaginate un robot doctor mucama o consejero tiene que manifestar algun tipo de sensibilidad sino seria frio y distante dijo heaton
+
+anca dragan directora del interact lab el laboratorio de inteligencia artificial de la universidad de california en berkeley dice que los robots tendrian que ser sensibles a las emociones que no es lo mismo que llegar a sentirlas ellos mismos tendrian que saber interpretar las emociones y poder expresarlas sostiene la experta porque de esta forma ellos entenderian mejor los pedidos de los humanos y podrian proporcionarles un mejor servicio
+
+segun esta postura un robot deberia saber identificar cuando una persona esta contenta triste dubitativa frustrada o enojada para poder simular una respuesta emocional que se adecue al temperamento humano asi podra por ejemplo entender el sarcasmo y saber que no es una afirmacion explicita o una pregunta o para que ante la frustracion del humano le de un tiempo para reponerse en vez de insistir en respuestas predeterminadas que no estan resolviendo el problema de la persona
+
+como ejemplo dragan menciona un estudio que demostro que muchos ninos acosan verbalmente a alexa y que siguen embistiendo contra ella ante la actitud imparcial y educada de la asistente virtual de amazon segun la postura de la empatia el robot tendria que corregir o reaccionar ofendido para que los ninos se den cuenta de que su conducta tiene consecuencias
+
+como tendria que ser la respuesta de la asistente virtual en estos casos dragan dice que la inteligencia artificial debe ofrecer una reaccion fingida y controlada porque no pueden ser espontaneos en circunstancias nuevas las maquinas no pueden extrapolar una situacion que conocen a un escenario desconocido como los humanos hacemos explica dragan
+
+una escena que ilustra esta falta de extrapolacion es la forma diferente en que razona un carro autonomo mientras que un humano que sabe conducir un auto puede circular bien en un camino nuevo un carro autonomo debe conocer de forma exacta el espacio de antemano porque su base de informacion acumulada no se puede proyectar en una situacion diferente
+
+otros especialistas en cambio piensan que los robots no deben sentir o imitar sentimientos pero no es un tema moral dicen el temor es la posibilidad de que esto afecte la eficacia de los sistemas la idea detras de esto es que alguien que se emociona es alguien falible
+
+si una maquina se ofende por ejemplo puede generar errores sin querer dijo paul kaufmann neurocientifico suizo cofundador de starmind una empresa que conecta investigaciones de la neurociencia con la robotica kaufmann piensa que los robots bajo ninguna circunstancia deben sentir o expresar emociones
+
+en esta concepcion del problema los algoritmos tienen que dedicarse unicamente a relacionar datos y llegar a conclusiones y para conseguir este objetivo no necesitan sentimiento alguno sin embargo el experto aconseja que los robots cuenten con un repertorio sofisticado de conductas semihumanas para que sean amigables para las personas
+
+pero las emociones no son solo relevantes por una cuestion de cortesia sino porque afectan las decisiones y estas tienen implicaciones morales heaton de la universidad de washington relata el ejemplo de un auto inteligente que sucede en el caso de un accidente el vehiculo privilegia la vida del conductor incluso frente a la eventualidad de atropellar a otra persona o tomaria una decision moral de elegir el mal menor para la sociedad en su conjunto
+
+no hay una respuesta clara tanto por parte de la comunidad cientifica como para los fabricantes de vehiculos aunque algunas personas encuestadas por el mit privilegian una posicion utilitarista del bien comun como la idea de sacrificar una vida para salvar varias las posturas cambian cuando estas decisiones se vuelven personales el dilema moral excede el objetivo de este articulo porque abre nuevas interrogantes que rebasan el tema central

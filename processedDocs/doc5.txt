@@ -1,0 +1,19 @@
+en la industria tecnologica se escucha cada vez mas el termino machine learning y son muchas las empresas interesadas en saber utilizar esta tecnica para obtener informacion pero sabes que es o en que consiste
+
+el machine learning o aprendizaje automatico es una rama dentro del campo de la inteligencia artificial cuyo objetivo es dotar a los ordenadores de la capacidad de aprender sin necesidad de ser programados
+
+el termino se lleva utilizando desde los 50 pero ha sido en los ultimos anos cuando ha tomado gran relevancia gracias al aumento de la capacidad de computacion asi como al gran volumen de datos que las empresas tienen que manejar
+los algoritmos catalogados como machine learning se clasifican en dos grandes grupos supervised learning o unsupervised learning en el primero de ellos disponemos de un conocimiento anterior que nos ayudara a entender los nuevos datos que lleguen
+
+asi nos seran utiles para tomar decisiones o hacer predicciones un ejemplo de ello es un sistema de control de spam de google donde el usuario indica cuales son los correos con malware y el machine learning de gmail aprende para luego poder identificarlos el solo
+
+tambien se puede utilizar para clasificar enfermedades y que el sistema aprenda y reconozca los sintomas en el futuro ayudandonos asi a prevenir peligrosas epidemias
+
+en el segundo caso el unsupervised learning la inteligencia artificial no tiene una experiencia previa para analizar estos datos por lo que esta mas orientado a la busqueda de patrones dentro de este grupo se clasificarian los analisis de datos cientificos
+
+y es que el machine learning puede ayudarnos a buscar patrones o anomalias de grandes volumenes de datos tambien nos servira para la segmentacion de clientes o para el analisis de redes sociales sacando patrones de las interacciones para detectar tendencias o comportamientos
+las tecnicas de machine learning abarcan un campo muy extenso y son una parte fundamental dentro del big data el numero de tecnicas y algoritmos cada vez sera mas extenso y las aplicaciones a nivel practico son inimaginables
+
+a pesar de ello no podemos pensar que en el futuro sino mas bien en el presente y es que la introduccion de tecnicas de machine learning debe ser fundamental a dia de hoy en las empresas sobre todo en temas relacionados con decisiones estrategicas
+
+si aun asi no te queda claro que es o en que consiste el machine learning echa un vistazo al video que hemos preparado

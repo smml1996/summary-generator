@@ -1,0 +1,9 @@
+La inteligencia artificial (IA) es el futuro. La inteligencia artificial es ciencia ficción. La inteligencia artificial ya es parte de nuestras vidas.
+
+La manera más sencilla para pensar en su relación es visualizarlos en círculos concéntricos con la inteligencia artificial — la idea que surgió primero — es la más grande, después aprendizaje de máquinas — el cual floreció después, y finalmente aprendizaje profundo — el cual impulsa la explosión de la IA el día de hoy —  quedando dentro de las dos.
+
+El Aprendizaje de Máquinas en su práctica más elemental usa algoritmos para procesar información, aprender de ella, y luego hacer una determinación o predicción acerca de algo en el mundo. Así que en vez de escribir a mano rutinas de programación con un conjunto de instrucciones específico para lograr una tarea en particular, la máquina es “entrenada” usando grandes cantidades de información y algoritmos que le dan la habilidad de aprender cómo realizar la tarea. Como sabemos, ninguno logró el objetivo principal de la IA General, y aún la IA Limitada estuvo casi fuera de alcance con los primeros enfoques de aprendizaje de máquinas.
+
+Con el paso del tiempo, una de las mejores aplicaciones para el aprendizaje de máquinas fue por muchos años la visión de la computadora, aunque todavía requería una gran cantidad de código manual para realizar el trabajo.
+
+El Aprendizaje Profundo ha permitido muchas aplicaciones prácticas del Aprendizaje de Máquinas y por consecuencia de todo el campo de la IA. El aprendizaje profundo parte las tareas de maneras que hace posible toda clase de asistencia por medio de máquinas sea posible y probable.

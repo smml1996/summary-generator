@@ -1,0 +1,5 @@
+os pioneros de la inteligencia artificial sonaban con construir complejas maquinas que tuvieran las mismas caracteristicas que la inteligencia humana alla por la decada de los 50
+
+en la actualidad aunque aun nos sigue pareciendo lejano el hecho de programar algo tan complejo como la mente humana estamos viviendo un avance tremendo en el uso del machine learning y desde hace unos cuantos anos concretamente del deep learning ambos englobados en la inteligencia artificial la cual fue ideada para hacer que las maquinas sean mas listas incluso que los humanos
+
+aunque los medios sigan tratando de forma indiferente ambos terminos machine learning y deep learning vamos a aclarar algunos conceptos en mas profundidad y sobre todo el impacto que esta teniendo en los avances tecnologicos presentes y lo que esta por llegar tanto en la industria del software como en nuestra vida cotidiana

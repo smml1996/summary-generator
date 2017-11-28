@@ -1,0 +1,16 @@
+ultimamente y mas en estas fechas que los informes con las tendencias del ano que viene proliferan estamos oyendo y leyendo mucho acerca de las consecuencias que la robotica y la inteligencia artificial traeran a nuestras vidas tanto en el ambito personal como profesional
+
+en medio de tanto ruido es facil encontrar tecnicismos que se confunden facilmente machine learning ml deep learning big data o la propia inteligencia artificial ia tecnologias que se entremezclan unas con otras en los analisis predictivos o cuando un texto describe sus aplicaciones mas recientes pero que a menudo se emplean erroneamente como si fueran equivalentes
+
+cierto es que todas tienen relacion pues se basan en el procesamiento de datos en grandes cantidades big data pero su nivel de complejidad no es equiparable a grandes rasgos podriamos decir que la inteligencia artificial es la tecnologia mas basica ya que responde siempre igual ante los mimos parametros que ha evolucionado en el machine learning tambien llamado aprendizaje automatico que es capaz de autoaprender y corregir errores y en deep learning la mas compleja de las tres que ademas de eso toma decisiones a partir de los datos
+
+para entenderlo mejor tomemos un ejemplo imaginemos que queremos identificar la marca y el modelo de todos los vehiculos que pasan por una calle por un lado tendriamos las imagenes y el sonido de las camaras y por otro una base de datos enorme con la forma caracteristicas tecnicas o el sonido del motor de miles de coches un sistema de inteligencia artificial indetificaria los coches de las imagenes por su aproximacion a los datos que conoce pero no siempre acertaria ya que hay coches con caracteristicas muy similares
+
+un sistema con machine learning podria aprenderse los datos y clasificar con mayor precision los vehiculos pero uno con deep learning puede entrenarse sobre los nuevos datos que va recibiendo es decir puede emplear un diferenciador erroneo y equivocarse una vez pero a la siguiente emplea otro para acercarse cada vez mas al resultado correcto
+
+google emplea deep learning en sus algoritmos de reconocimiento de voz e imagen netflix y amazon lo utilizan para adelantarse a tus gustos y los investigadores del mit instituto tecnologico de massachusetts para predecir el futuro
+
+el deep learning toma conceptos basicos de la ia y los enfoca en la resolucion de problemas del mundo real a partir de redes neuronales profundas que imitan la forma en que nuestro cerebro toma decisiones es decir emplea los datos que conoce para tomar decisiones sobre datos nuevos por eso es la tecnologia mas similar al funcionamiento cerebral humano
+esas redes son construcciones logicas resultado de una serie de preguntas binarias verdadero o falso si o no de las que se extrae un valor numerico cada vez que incorpora un nuevo dato lo transfiere a esa red neuronal y lo clasifica segun la respuesta a dichas preguntas
+
+dicha clasificacion permite procesar ingentes cantidad de datos  como por ejemplo todos los tuits publicados desde que existe twitter pero tambien complejos como por ejemplo reconocer personas en una fotografia
